@@ -1,4 +1,5 @@
-{
+[
+  {
     id: 1,
     name: 'Leanne Graham',
     username: 'Bret',
@@ -75,3 +76,4 @@
     email: 'staplerboy@gmail.com',
     set: 2
   }
+]
