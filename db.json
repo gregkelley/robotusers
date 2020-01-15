@@ -4,34 +4,34 @@
     "name": "Leanne Graham",
     "username": "Bret",
     "email": "Sincere@april.biz",
-    "set": 1
+    "set": "1"
   },
   {
     "id": 2,
     "name": "Ervin Howell",
     "username": "Antonette",
     "email": "Shanna@melissa.tv",
-    "set": 3
+    "set": "3"
   },
   {
     "id": 3,
     "name": "Clementine Bauch",
     "username": "Samantha",
     "email": "Nathan@yesenia.net",
-    "set": 5
+    "set": "5"
   },
   {
     "id": 4,
     "name": "Patricia Lebsack",
     "username": "Karianne",
     "email": "Julianne.OConner@kory.org",
-    "set": 4
+    "set": "4"
   },
   {
     "id": 5,
     "name": "Noel Dietrich",
     "username": "NDietrich",
     "email": "Lucio_Hettinger@annie.ca",
-    "set": 2
+    "set": "2"
   }
 ]
